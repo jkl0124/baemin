@@ -1,4 +1,4 @@
-package exercise.filter;
+package com.example.demo.order;
 
 import java.lang.reflect.Method;
 
@@ -14,16 +14,16 @@ import org.springframework.stereotype.Component;
 @Component
 public class MyAOP {
 
-    @Pointcut("execution(* com.example.demo.ex6.MyController..*(..))")
+    @Pointcut("execution(* com.example.demo.order.OrderController..*(..))")
     private void cut() {}
-    
+
     @Before("cut()")
     public void before(JoinPoint joinPoint) {
         MethodSignature methodSignature = (MethodSignature) joinPoint.getSignature();
         Method method = methodSignature.getMethod();
         System.out.println("MyAOP - before");
     }
-    
+
     @AfterReturning(value = "cut()", returning = "obj")
     public void afterReturn(JoinPoint joinPoint, Object obj) {
     	System.out.println("MyAOP - afterReturn");

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3bab7df-6da1-48d1-8f8b-6914cbfd31a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppingmall.sql" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingmall.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/CustomWebMvcConfigurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/CustomWebMvcConfigurer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/MyAOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/MyAOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/MyFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/MyFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/MyInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/MyInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductRepository2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductRepository2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/user/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/user/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/user/UserRepository" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/user/UserRepository" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/user/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/user/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/utils/HandleValidtionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/utils/HandleValidtionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/utils/ResponseEntityApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/utils/ResponseEntityApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/utils/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/utils/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/exception/AgeThrowCheckerEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/exception/AgeThrowCheckerEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/exception/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/exception/IteratorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/exception/MultiCatchEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/exception/MultiCatchEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/generics/MyStackDeom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/generics/MyStackDeom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2g2iEFG09Lsff9AjSncvTtqu71V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BaseballGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiCatchEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyStackDeom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NullPointer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build baemin.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.baemin [:AgeThrowCheckerEx.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.baemin [:BaseballGame.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.baemin [:DemoApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.baemin [:EnumDemo.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.baemin [:GenericDemo.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.baemin [:IteratorDemo.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.baemin [:MbtiThrowsEx.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.baemin [:NullPointer.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.baemin [:listEx.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kimhyunsoo/baemin&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.demo.order" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/exercise/filter" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
+      <module name="demo.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3bab7df-6da1-48d1-8f8b-6914cbfd31a5" name="Changes" comment="" />
+      <created>1714901959131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714901959131</updated>
+    </task>
+    <servers />
+  </component>
+</project>

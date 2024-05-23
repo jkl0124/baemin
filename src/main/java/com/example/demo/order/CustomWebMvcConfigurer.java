@@ -1,4 +1,4 @@
-package exercise.filter;
+package com.example.demo.order;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
