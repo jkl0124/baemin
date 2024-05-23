@@ -13,7 +13,7 @@ public class OrderService {
     }
 
     OrderDTO saveOrder(OrderDTO orderDTO){
-        Order order = new Order(this.productRepository.findProductById(orderDTO.getProductId()),orderDTO.getCount());
+        Order order = new Order(this.productRepository.findById(orderDTO.getProductId()).get(),orderDTO.getCount());
         order = this.orderRepository.saveOrder(order);
         return new OrderDTO(order.getProduct().getId(), order.getId());
     }

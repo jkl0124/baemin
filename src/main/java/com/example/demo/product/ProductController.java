@@ -1,13 +1,16 @@
 package com.example.demo.product;
 import com.example.demo.utils.ResponseEntityApi;
+import java.awt.print.Pageable;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.PageRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
@@ -24,8 +27,9 @@ public class ProductController {
     {
         try {
             Product product = productDTO.toEntity();
-            ProductDTO saveProduct = productService.save(product);
-            return ResponseEntityApi.success(saveProduct);
+            Product saveProduct = productService.save(product);
+            productDTO = new ProductDTO(saveProduct);
+            return ResponseEntityApi.success(productDTO);
 //            log.info(savaProduct.getName());
         } catch (NullPointerException e){
             return ResponseEntityApi.error("저장되지 않았음");
@@ -41,6 +45,12 @@ public class ProductController {
     public ResponseEntityApi.ResponseEntity<?> getProduct(@PathVariable int id){
         Product product = productService.findById(id);
         return ResponseEntityApi.success(product);
+    }
+
+    @GetMapping("/products")
+    public ResponseEntityApi.ResponseEntity<?> getProducts(@RequestParam("size") int size,@RequestParam("page") int page){
+        Pageable pageable = (Pageable) PageRequest.of(page,size);
+        return ResponseEntityApi.success(productService.findAll(pageable));
     }
 
 

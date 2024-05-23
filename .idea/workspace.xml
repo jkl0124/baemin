@@ -5,35 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3bab7df-6da1-48d1-8f8b-6914cbfd31a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shoppingmall.sql" beforeDir="false" afterPath="$PROJECT_DIR$/shoppingmall.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/CustomWebMvcConfigurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/CustomWebMvcConfigurer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/MyAOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/MyAOP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/MyFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/MyFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/MyInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/MyInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserController.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserRepository.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserService.class.uniqueId2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/order/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/product/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductRepository2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductRepository2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/product/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/user/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/user/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/user/UserRepository" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/user/UserRepository" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/user/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/user/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/utils/HandleValidtionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/utils/HandleValidtionException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/utils/ResponseEntityApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/utils/ResponseEntityApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/utils/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/utils/Validator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/exception/AgeThrowCheckerEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/exception/AgeThrowCheckerEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/exception/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/exception/IteratorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/exception/MultiCatchEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/exception/MultiCatchEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/generics/MyStackDeom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/generics/MyStackDeom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

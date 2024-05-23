@@ -1,6 +1,7 @@
 package com.example.demo.product;
-import java.util.List;
+import java.awt.print.Pageable;
 import java.util.Optional;
+import org.hibernate.query.Page;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -26,8 +27,8 @@ public class ProductService {
         return product.orElse(null);
     }
     @Transactional
-    public List<Product> findProductsById(int page,int size){
-
+    public Page findAll(Pageable pageable){
+        return productRepository.findAll(pageable);
     }
 
 //    public Product findProductById(int id){
